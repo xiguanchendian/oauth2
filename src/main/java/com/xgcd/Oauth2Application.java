@@ -1,4 +1,4 @@
-package com.xgcd.oauth2;
+package com.xgcd;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
