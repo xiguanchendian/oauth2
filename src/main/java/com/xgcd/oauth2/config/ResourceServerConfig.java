@@ -8,6 +8,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 
 /**
  * 资源服务器
+ * @EnableResourceServer 注解表明这是一个资源服务器
  */
 @Configuration
 @EnableResourceServer
